@@ -2,7 +2,7 @@ import React from 'react';
 
 import { useState, useEffect } from "react";
 
-export default function bblue(){
+export default function Blue(){
     const [backgroundColor, setBackgroundColor] = useState("blue")
 
     return(

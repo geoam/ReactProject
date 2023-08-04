@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState, useEffect } from "react";
 
-export default function rred(){
+export default function Red(){
     const [backgroundColor, setBackgroundColor] = useState("red")
 
     return(
